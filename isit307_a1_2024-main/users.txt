@@ -1,0 +1,8 @@
+Sample:18
+Another:28
+Bob:3
+Spoon:4
+Treat:1
+Banner:5
+Tree:24
+Bottle:12
